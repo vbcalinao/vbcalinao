@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vbcalinao
 - 👀 I’m interested in ... everything that is sounds exciting, fun, and helpful!
-- 🌱 I’m currently learning ... JavaScript, Python, and life.
-- 💞️ I’m looking to collaborate on ... Image Recognition
+- 🌱 I’m currently learning ... Python, JavaScript, and life.
+- 💞️ I’m looking to collaborate on ... product development.
 - 📫 How to reach me ... email me at vbcalinao@gmail.com
 
 <!---
